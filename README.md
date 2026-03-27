@@ -4,16 +4,18 @@ This repository contains code used for transcript extraction and QA generation f
 
 ## Project Structure
 
-- `QA Automated/` – Scripts and experiments for automated QA generation:
-  - `main.py` – Generate transcripts with timestamps from YouTube videos, Experimented with transformer-based QA generation (FLAN-T5)
-  - qa-output/
-     - `transformers_qa.txt` – sample output of automated QA generation
-  -transcripts
-    Transformers.txt
--  `QA Manual/` -
-  -transcripts
-    - Transformers.txt
-  - `main.py` – Generate transcripts with timestamps from YouTube videos
+```
+LIVO.AI ASSESSMENT/
+│
+├── QA Manual/
+│   ├── main.py              # Generates transcripts with timestamps for 4 YouTube videos
+│   └── 4 transcript .txt files created
+│
+├── QA Automated/
+│   ├── main.py              # Generates transcripts & experiments with transformer-based QA generation (FLAN-T5)
+│   ├── 4 transcript .txt files
+│   └── qa_output/           # Generated QA outputs (filename_qa.txt)
+```
 
 ## Notes
 
