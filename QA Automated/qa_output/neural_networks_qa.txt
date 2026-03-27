@@ -1,0 +1,24 @@
+QA 1:
+What is a 3?
+
+QA 2:
+What is the structure component of a neural network?
+
+QA 3:
+What is the difference between a neural network and a handwritten digit?
+
+QA 4:
+What is the first layer of the network?
+
+QA 5:
+What are we expecting a layered structure like this to behave intelligently?
+
+QA 6:
+What is the best hope for what those middle layers might be doing?
+
+QA 7:
+What is the goal of the RAG system?
+
+QA 8:
+What would be useful for other image recognition tasks?
+

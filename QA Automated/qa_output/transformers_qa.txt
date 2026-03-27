@@ -1,0 +1,24 @@
+QA 1:
+What does the GPT stand for?
+
+QA 2:
+Which of the following is not a type of prediction model: a snippet of text, a random sample of text, or a prediction of the next word?
+
+QA 3:
+What is the main idea of the animation?
+
+QA 4:
+What is the meaning of the word model in the phrase "a machine learning model"?
+
+QA 5:
+Which of the following is not encoded in the entries of the vectors: a multi-layer perceptron, a feed-forward layer, or a feed-forward layer?
+
+QA 6:
+What would be the best starting point for a chatbot that predicts what comes next given a snippet of text?
+
+QA 7:
+What is the main idea of the video?
+
+QA 8:
+What is the basic premise and structure of deep learning?
+

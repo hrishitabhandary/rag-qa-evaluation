@@ -1,0 +1,30 @@
+QA 1:
+Answer: ... Context: So today I will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024
+
+QA 2:
+Answer: ... Context: What is AI how you can learn AI and machine learning
+
+QA 3:
+Answer: ... Context: so i will say when the precipitation was this much and humidity was this much then it rained when the precipitation, humidity and temperature is this much then it rained when the precipitation, humidity and temperature is this much then it rained when the precipitation, humidity and temperature is this much then it didn't rain when i will give a new value that today's precipitation, humidity and temperature is this much then it will tell me that according to this value today it is not going to
+
+QA 4:
+Answer: ... Context: a little customization is done, a thing is made, which blows the mind of a common man
+
+QA 5:
+Answer: ... Context: I was looking at some Amazon courses on Skillbuilder If you don't know what is Skillbuilder, then you should know about Skillbuilder Because there are many free courses there that will teach you about Generative AI We will teach you how to use Amazon AWS tools If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS, then you can always create
+
+QA 6:
+AI will not replace you, you will be replaced by a person who uses AI to conquer, who will be faster than you because he uses AI so guys that's why I will put all these resources in the description for you and you can learn everything by doing it slowly here Amazon has put free courses for you
+
+QA 7:
+Answer: ... Context: with generative AI how you can use Amazon AWS tools you will get the link in the description you all can access the link in the description All the learning paths PDFs and all this I will give you in the description
+
+QA 8:
+generative AI is doing a lot of manual work so what happens in supervised learning that the input you have is output is specified by you that this is the output in unsupervised learning you have data and on that data you have to train an algorithm in such a way that algorithm tells you how this data can be organized for example, I can do clustering I have a lot of data points and I want to find out which of these data points are related to each other and how much are they related, so I can use k-
+
+QA 9:
+Answer: ... Context: once the data comes from neural network so in supervised learning, labeled examples are used and in unsupervised learning, unlabeled examples are used
+
+QA 10:
+Answer: ... Context: if your data is present in any database, then you will pull the data from there and bring it in the desired format and the second step after data collection is data pre-processing in which you will clean up the data and after cleaning it up we will bring it in such a format such that it can be consumed by a machine learning algorithm after this comes the model selection in which you will select a suitable model or sometimes we use a lot of models and for this process we train our model, this
+

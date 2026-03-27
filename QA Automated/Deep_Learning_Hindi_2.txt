@@ -1,0 +1,359 @@
+0.00s -> So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024.
+6.50s -> In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software,
+13.80s -> my opinion is a little different here.
+15.50s -> I will say who will take away the jobs, not AI.
+18.00s -> The person who will learn to learn AI and machine learning tools will take away.
+21.70s -> Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him
+26.00s -> to do those things
+28.00s -> which a normal software developer
+30.00s -> does with a lot of hard work
+32.00s -> and in this way your smart work will be useful
+34.00s -> that what are you doing
+36.00s -> what are you learning
+38.00s -> there was a way to do a task in 10 minutes
+40.00s -> you made it in an hour
+42.00s -> you are doing it with that classical approach
+44.00s -> then the person who is doing approach so that person will replace you
+46.00s -> who is doing it in 10 minutes
+48.00s -> and today I will talk about what is machine learning
+50.00s -> what is AI
+52.00s -> how you can learn AI and machine learning
+54.00s -> and we will talk about some modern tools
+56.00s -> which you should use
+58.00s -> if you want to focus on machine learning and artificial intelligence
+60.00s -> in 2024
+62.00s -> and you want to give a boost to your career
+64.00s -> and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say
+66.00s -> you want to save your career. What is machine learning?
+69.00s -> Machine learning is a process of training an algorithm on data
+72.00s -> What does it mean? You have a lot of data
+75.00s -> Let's say you have 3 billion data points
+78.00s -> and now you want that you
+81.00s -> can predict about new data points
+84.00s -> by looking at 3 billion data points.
+86.04s -> Now let us say I have data that how fast was the wind
+89.02s -> I have data that how much was the precipitation, how much was the humidity
+92.04s -> and what was the temperature that day and I have to predict
+95.04s -> whether it is going to rain or not.
+98.04s -> I can do this using machine learning algorithms.
+101.04s -> How will I do prediction? I will do it
+104.04s -> by showing that old data to a machine learning algorithm
+106.00s -> so i will say when the precipitation was this much
+109.00s -> and humidity was this much and temperature was this much then it rained
+112.00s -> when the precipitation, humidity and temperature was this much then it didn't rain
+115.00s -> when i will give a new value that today's precipitation, humidity
+118.00s -> and temperature is this much then it will tell me
+121.00s -> that according to this value today it is not going to rain
+124.00s -> and today it is going to rain, today it is going to rain
+126.00s -> will it be true? no, it will be a prediction
+129.00s -> so what machine learning and AI does is predictions
+132.00s -> I have talked about a very simple prediction
+135.00s -> but if you take this thing to the next level
+138.00s -> through deep learning, if you train complex algorithms
+141.00s -> then it is seen there
+144.00s -> that by training complex algorithms
+146.00s -> this process becomes so dangerous
+148.00s -> that humans also get amazed
+150.00s -> chart gpt is a classic example of this
+152.00s -> chart gpt is not a pure machine learning model
+154.00s -> chart gpt
+156.00s -> gives you some layer of abstraction
+158.00s -> on machine learning
+160.00s -> that means it has some regular rules
+162.00s -> some checks
+164.00s -> chart gpt is not just a neural network,
+166.20s -> let me tell you this too,
+167.40s -> so on that neural network,
+169.20s -> a little customization is done,
+170.60s -> a thing is made,
+172.20s -> which blows the mind of a common man,
+175.00s -> if you want to learn machine learning,
+177.00s -> and want to learn to deploy machine learning models,
+179.60s -> because in the industry,
+180.80s -> you are not asked the basics,
+182.40s -> you will have real world data,
+184.20s -> and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data
+186.00s -> and give some insights
+188.00s -> and make the business profit
+190.00s -> and in this situation, it is not necessary
+192.00s -> that you know the machine learning algorithm
+194.00s -> and this function or not
+196.00s -> but there it is necessary
+198.00s -> that how long are you doing the implementation
+200.00s -> and if you are able to do the implementation well
+202.00s -> then you will be very successful
+204.00s -> in that job.
+205.68s -> Your demand will increase.
+207.04s -> You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools.
+213.64s -> And with the help of such tools, AI models are deployed.
+216.68s -> For example, take the example of Amazon SageMaker.
+218.88s -> You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast
+230.72s -> I was looking at some Amazon courses on Skillbuilder
+233.56s -> If you don't know what is Skillbuilder, then you should know about Skillbuilder
+236.84s -> Because there are many free courses there that will teach you about Generative AI
+240.56s -> We will teach you how to use Amazon AWS tools
+243.92s -> If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS
+246.00s -> you can always create one
+249.00s -> you get 1 year free
+252.00s -> at the time of recording this video
+255.00s -> Amazon AWS gives you a lot of free tier
+258.00s -> to deploy machines
+261.00s -> which is actually a lot of help from Amazon
+264.00s -> I will show you about Amazon AWS skill builder
+265.16s -> and some other Amazon courses
+268.12s -> in the computer screen.
+269.44s -> If you open this webpage,
+271.04s -> which I have also given in the description,
+272.84s -> if you see here,
+274.12s -> then here is a video of machine learning basics,
+277.24s -> which is a revolutionary video, let me tell you.
+279.60s -> You guys watch this video,
+280.80s -> I watched this video completely
+282.36s -> and it was a game changer
+283.92s -> because they have to do all this from Amazon AWS
+287.00s -> and keeping in mind the aspect of Amazon AWS
+291.00s -> which in my opinion is great
+294.00s -> because if you are able to do this kind of work
+297.00s -> then you are the king of modern generative AI
+300.00s -> you don't just have to know about algorithms
+303.00s -> you should know how to do these things
+305.50s -> and if you have learned to use code whisperer
+308.50s -> you have learned to use SageMaker
+310.50s -> then with the help of AWS
+313.00s -> the things you are able to do
+315.50s -> you will be able to do it faster
+317.50s -> so if I take you to the skill builder
+320.50s -> then you can sign up for it
+322.00s -> and there are a lot of free courses here
+323.50s -> you can explore them and start taking them.
+326.00s -> Create an account on Amazon AWS and start working.
+330.00s -> And in the next 1-2 years, the demand for all these things
+332.00s -> is going to increase a lot.
+334.00s -> And as I told you a while ago,
+336.00s -> that AI will not replace you,
+338.00s -> you will be replaced by a person who uses AI to conquer,
+343.00s -> who will be faster than you because he uses AI
+347.00s -> so guys that's why I will put all these resources in the description for you
+351.00s -> and you can learn everything by doing it slowly
+354.00s -> here Amazon has put free courses for you
+357.00s -> with generative AI
+359.00s -> how you can use Amazon AWS tools
+362.00s -> you will get the link in the description
+364.00s -> you all can access the link in the description
+365.48s -> All the learning paths
+367.34s -> PDFs and all this I will give you in the description
+370.52s -> Now we come back to what is machine learning
+373.80s -> So by showing the data we can do prediction
+375.80s -> With the help of machine learning, I just told you this
+378.30s -> But machine learning is of three types
+380.30s -> If I talk only about machine learning
+381.80s -> Supervised, unsupervised and reinforcement learning
+386.00s -> what happens in supervised learning is that you have some input
+389.08s -> or multiple output
+392.08s -> and you have this kind of organized data
+395.08s -> like I told you, based on precipitation, humidity and temperature
+398.08s -> we were predicting rain yes or no
+401.08s -> if I have this kind of data and I have values of new precipitation, humidity and temperature
+404.08s -> then based on that I can find out whether it will rain or not based on that
+407.00s -> or if I have some parameters of a person's health parameters
+410.00s -> let's say his blood pressure, let's say his blood glucose
+413.00s -> along with that, if I have all these things
+416.00s -> then I can find out whether he is diabetic or not
+418.00s -> if I run it with a machine learning algorithm
+421.00s -> then I can get a very good information about the patient
+424.00s -> I can get a presumption that he can have diabetes or not
+426.00s -> and on the basis of that I can do tests etc.
+428.00s -> so it is being used a lot in medical and health care
+432.00s -> because generative AI is doing a lot of manual work
+435.00s -> so what happens in supervised learning
+437.00s -> that the input you have is
+439.00s -> output is specified by you that this is the output
+441.00s -> in unsupervised learning you have data
+444.00s -> and on that data you have to
+446.00s -> train an algorithm in such a way
+448.00s -> that algorithm tells you
+450.00s -> how this data can be organized
+452.00s -> for example, I can do clustering
+454.00s -> I have a lot of data points and I want to
+456.00s -> find out which of these data points
+458.00s -> are related to each other
+460.00s -> and how much are they related, so I can use
+462.00s -> k-means clustering algorithm
+464.00s -> or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms
+467.28s -> and do clustering and classify a data in some labels
+472.16s -> and I can generate those labels by myself
+474.16s -> these things are used a lot in generative AI and NLP
+477.44s -> once the data comes from neural network
+480.24s -> so in supervised learning, labeled examples are used
+482.88s -> and in unsupervised learning, unlabeled examples are used.
+485.70s -> Another example of unsupervised learning is credit card fraud detection.
+490.00s -> Which credit card fraud or which transaction can be a fraudulent transaction.
+495.50s -> Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning.
+501.20s -> Then after this, there is another category, reinforcement learning.
+504.40s -> What happens in Reinforcement Learning
+506.00s -> is that we leave an agent
+508.00s -> to collect data.
+510.00s -> So what does he do? The agent does trial and error
+512.00s -> and on the basis of that trial and error
+514.00s -> he gets rewards or he gets a penalty
+516.00s -> and what does he do? He maximizes his rewards.
+519.00s -> And after that, he only does the work
+521.00s -> by which his reward is maximized.
+522.00s -> And he himself knows
+524.00s -> what work he should do
+525.60s -> so that my reward is maximized
+527.60s -> Now what is the overall process of running a machine learning algorithm on a data?
+532.48s -> What kind of process will you go through if you want to train a model with a machine learning algorithm?
+538.48s -> The first step is data collection, in this you collect data
+541.60s -> Now if your data is present in any database, then you will pull the data from there and bring it in the desired format
+546.00s -> and the second step after data collection
+548.40s -> is data pre-processing
+549.72s -> in which you will clean up the data
+551.96s -> and after cleaning it up
+553.76s -> we will bring it in such a format
+555.08s -> such that it can be consumed
+556.56s -> by a machine learning algorithm
+557.96s -> after this comes the model selection
+559.28s -> in which you will select a suitable model
+561.60s -> or sometimes we use a lot of models
+563.56s -> and for this packages like
+564.88s -> scikit-le learn, tensorflow,
+566.00s -> keras, pytorch, we use all of these
+569.00s -> then after this we train our model, this process
+572.00s -> sometimes takes a lot of time, sometimes it takes very less time
+575.00s -> depending upon which algorithm we are using, how many
+578.00s -> data points we have and what kind of data points
+581.00s -> sometimes our data points are such big vectors
+584.00s -> that even if it is less, it takes a lot of time.
+586.00s -> After this, we do testing and evaluation
+588.00s -> in which we test our model
+590.00s -> and find out how much our model is better
+593.00s -> and to make it better
+595.00s -> what can we do
+596.00s -> we get an accuracy number
+598.00s -> and if we can maximize the accuracy
+599.00s -> with any other algorithm
+601.00s -> then we will do that
+602.00s -> after this we do predictions
+604.00s -> and after doing predictions we put the model
+606.00s -> in production and after that
+608.00s -> we keep updating the model
+610.00s -> as we get more data
+612.00s -> so this process is iterative
+614.00s -> and it keeps on repeating
+616.00s -> now we have some common metrics
+618.00s -> to evaluate machine learning algorithms
+620.00s -> like we have a metric
+622.00s -> ROC AOC curve, along with that
+624.00s -> we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error
+632.00s -> Once you know what all these are, you will be able to evaluate your model very closely
+637.00s -> And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same
+646.50s -> but how you are deploying such that your service is not down
+650.50s -> you don't get downtime at all
+652.50s -> and you get such a managed environment
+654.50s -> so that you can retrain your model
+656.50s -> you can put it in production
+658.50s -> you are not having any problem
+660.50s -> and for this, as I told you, you can check out Amazon's tools
+662.50s -> I will put all the links in the description.
+665.68s -> Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI?
+672.44s -> Deep learning is to make a neural network that approximates a function.
+677.40s -> That function is assumed to fit the data given to us.
+681.88s -> And it will also predict the incoming data points
+685.00s -> Neural network is a complex function
+688.00s -> which is impossible to imagine
+692.00s -> and it can approximate a lot of data points
+695.00s -> if I say 3x4x7
+697.00s -> and 1x2x3
+699.00s -> and 4x4x8
+701.00s -> then you will understand that it is adding
+703.00s -> so function is simple x plus y But sometimes the function is so complex
+706.00s -> That you want to make that function
+708.00s -> in such a way that
+710.00s -> it is sitting very accurately and realistically
+712.00s -> on the data
+714.00s -> So for this we use deep learning
+716.00s -> In which we use artificial neural networks
+718.00s -> Artificial neural networks basically
+720.00s -> approximate a function
+722.00s -> We feed data with it again and again
+724.00s -> And minimize the error this process is called training
+726.40s -> we have feed forward neural networks
+728.40s -> we have backward propagation methods
+730.70s -> then there are different types of neural networks
+732.90s -> like CNN, convolutional neural network
+735.10s -> RNN, recurrent neural network
+736.90s -> along with that there are LSTMs
+738.30s -> long short term memory neural networks
+740.30s -> these are made to solve longer sequences and vanishing gradient problems.
+745.00s -> I had made a video long ago in which I talked about vanishing gradient problem.
+749.00s -> So you can watch it. I had uploaded those videos of machine learning long ago.
+752.00s -> So if you are interested, you can watch them again.
+754.00s -> I have explained it in a very classical way on the board.
+757.00s -> Then we have auto encoders, GANs, Generative Adversarial Networks.
+762.00s -> GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards
+766.00s -> Generative AI
+768.00s -> earlier LSTMs were used but since
+770.00s -> the time of transformers which is again
+772.00s -> a kind of neural network
+774.00s -> architecture such that
+776.00s -> you can train data on NLP
+778.00s -> very easily so you can use it
+780.00s -> to arrive at things like chart GPT
+782.00s -> but again it's not
+784.00s -> that easy
+785.02s -> you have to understand the basics
+787.02s -> and then you have to see what is the architecture of transformer
+790.02s -> what is transformer, what is attention
+792.02s -> why it was made, what was the problem in LSTM
+794.02s -> that we switched to transformers
+796.02s -> and how a transformer's architecture generates new data
+799.02s -> by looking at old data
+801.02s -> how it is encoded in numbers
+803.02s -> all this textual information in numbers
+805.00s -> such that it is predicting our next token
+807.00s -> now it is not that you should know everything
+809.00s -> that you know mathematics
+811.00s -> you know loss function
+813.00s -> you should know the architecture of python
+817.00s -> no, you should learn
+819.00s -> you should have information
+821.00s -> how your neural network is trained
+823.00s -> and after that your work is very simple
+825.28s -> use amazon sage maker
+827.08s -> use amazon tools
+829.00s -> feed the data
+830.32s -> there is a thing made for you
+833.00s -> such that you can send your model in production as soon as possible
+836.60s -> so you will use it
+838.12s -> use any new AI tool
+840.08s -> use those things that are already available
+842.80s -> instead of reinventing the wheel
+844.56s -> you will work by yourself
+846.00s -> so definitely you will be successful in all these things
+848.80s -> so this was some basics of machine learning, AI and deep learning
+853.18s -> you want to learn them again
+854.60s -> I will put the links of Amazon skill builder in the description
+858.06s -> on which you will learn how to use generative AI and Amazon SageMaker
+862.14s -> to do the things of generative AI
+864.18s -> I will give you all that in the description
+866.00s -> I was watching this video of Amazon
+868.00s -> and it was really
+870.00s -> very helpful for me to be honest
+872.00s -> and go to this page and watch these videos
+874.00s -> first of all, some basics of
+876.00s -> machine learning has been talked about
+878.00s -> and how to use Generative AI
+880.00s -> and how to use Amazon SageMaker
+882.00s -> to do all these things
+884.00s -> is told about it so you can check
+886.00s -> the resources in the description
+888.00s -> I hope you liked this video
+890.00s -> what do you have to say?
+892.00s -> do you agree with me that AI
+894.00s -> will not take the job but
+896.00s -> AI tools will take your job
+898.00s -> with that said
+900.00s -> I hope this video was helpful
+902.00s -> thank you so much for watching this video
+904.00s -> and I will see you next time
