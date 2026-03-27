@@ -1,4 +1,3 @@
-# rag-qa-evaluation
 # RAG QA Evaluation
 
 This repository contains code used for transcript extraction and QA generation for the RAG assessment.
